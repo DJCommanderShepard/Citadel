@@ -2,11 +2,16 @@
 <head>
     <style>
         body, html {
-            text-align
+            text-align: center; 
         }
     </style>
   </head>
+  <body> 
       <h1>
           We are going to win when we fight together!
       </h1>
-      <body>
+     <p>
+          Join us in this battle and stand united for victory! 
+     </p>
+      </body>
+      </html>
